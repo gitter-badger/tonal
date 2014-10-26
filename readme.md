@@ -6,7 +6,7 @@ Example of Vietnamese frequency contour display:
 
 ![](VietnameseToneHanoi.png)
 
-from <https://commons.wikimedia.org/wiki/File:VietnameseToneHanoi.png>
+Image from [Wikipedia](https://commons.wikimedia.org/wiki/File:VietnameseToneHanoi.png).
 
 ## Tones
 
@@ -23,3 +23,5 @@ Training the ear and the mouth to recognize and reproduce sounds and tones corre
 For example, Lanna Innovation has produced Thai language learning cards with Sammy Diagrams as well as tone frequency contours:
 
 ![](01-Gau-Gai-Thai-Alphabet-Consonants-How-to-Learn-Thai.jpg)
+
+Image from [howtolearnthai.com](http://howtolearnthai.com/) used with permission.
