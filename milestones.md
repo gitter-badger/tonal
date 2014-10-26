@@ -41,3 +41,5 @@ A list of sets of words and phrases can be displayed and the user can select to 
 Fluent speakers can create words/utterances and sets of those words/utterances. (this may be a second application, but in any case saving a frequency contour is a needed functionality).
 
 Selecting between different fluent speakers' voices (male/female), and training with multiple fluent speakers' examples.
+
+Tonal minimal pairs testing of the hearing and the speech (e.g., mai, mai, mai, mai, mai - new wood doesn't burn does it?).
