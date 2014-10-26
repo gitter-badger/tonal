@@ -10,6 +10,16 @@ from <https://commons.wikimedia.org/wiki/File:VietnameseToneHanoi.png>
 
 ## Tones
 
-> Tone is the use of pitch in language to distinguish lexical or grammatical meaning – that is, to distinguish or to inflect words.[^yip]
+> Tone is the use of pitch in language to distinguish lexical or grammatical meaning – that is, to distinguish or to inflect words. -Yip, Moira (2002). Tone. Cambridge University Press. pp. 1–3, 12–14.
 
-[^yip]:Yip, Moira (2002). Tone. Cambridge University Press. pp. 1–3, 12–14.
+Tone is also called pitch or frequency. Tones exist on two dimensions, the relative frequency and the relative duration. That is, the fundamental unit of differentiation (phonemic boundary) is not only of sound, but of tone, and of time.
+
+In the Thai language there are effectively 10 tones, five short and five long (though not all sounds can be meaningfully expressed in all ten tones). Most of the dimensions for sound and tone is expressed in Thai (though there are still some ambiguities which must be known outside of writing), but for the Thai language learner, especially coming from a non-tonal language, tones are difficult to hear, remember, and reproduce, and tone rules are complex.
+
+## Visual Feedforward and Feedback
+
+Training the ear and the mouth to recognize and reproduce sounds and tones correctly can be assisted with visual aids.
+
+For example, Lanna Innovation has produced Thai language learning cards with Sammy Diagrams as well as tone frequency contours:
+
+![](01-Gau-Gai-Thai-Alphabet-Consonants-How-to-Learn-Thai.jpg)
