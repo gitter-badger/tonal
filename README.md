@@ -6,3 +6,5 @@ Tonal is a frequency contour visualization tool for foreign language acquisition
 Example of Vietnamese frequency contour display:
 
 ![](VietnameseToneHanoi.png)
+
+from <https://commons.wikimedia.org/wiki/File:VietnameseToneHanoi.png>
