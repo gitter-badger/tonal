@@ -35,6 +35,11 @@ Image from [howtolearnthai.com](http://howtolearnthai.com/) used with permission
 - Duration, time
     - Visualized as distance on an x-axis
 
+## Files for this project
+
+- [Code Organization (and APIs/Libraries Used)](code-organization.md)
+- [Draft Milestones](milestones.md)
+
 ## Related Issues
 
 The English language alternates between stressed and unstressed syllables. This is done by amplitude (volume). In addition, tone is used generally for semantics, such as questioning and emphasis. If both of these dimensions (amplitude modulation and frequency modulation) could be mapped visually, this could be fed into synthetic speech to make generated language more naturalistic and meaningful.

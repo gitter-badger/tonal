@@ -5,6 +5,7 @@ These are the initial draft of milestones and a description of the user interact
 ## Milestone 1
 
 - Access microphone and record audio
+- Recognize freqency
 - Process audio file into a recognizable frequency contour
 - Display the frequency contour
 
