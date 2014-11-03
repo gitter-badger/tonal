@@ -26,6 +26,17 @@ For example, Lanna Innovation has produced Thai language learning cards with Sam
 
 Image from [howtolearnthai.com](http://howtolearnthai.com/) used with permission.
 
+## Terms
+
+- Pitch, tone, frequency, fundamental frequency, f0, perceived pitch
+    - Visualized as height on a y-axis plotted at actual frequency
+- Stress, amplitude, volume
+    - Visualized as color or thickness of a line
+- Duration, time
+    - Visualized as distance on an x-axis
+
 ## Related Issues
 
 The English language alternates between stressed and unstressed syllables. This is done by amplitude (volume). In addition, tone is used generally for semantics, such as questioning and emphasis. If both of these dimensions (amplitude modulation and frequency modulation) could be mapped visually, this could be fed into synthetic speech to make generated language more naturalistic and meaningful.
+
+Stressed-timed language (such as English) means that the rhythm of the language needs to be learned.<http://www2.nkfust.edu.tw/~emchen/Pron/papers/paper-2.html>
