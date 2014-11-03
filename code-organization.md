@@ -16,6 +16,7 @@ Javascript, naturally, for Node or Browser, and supported on the key browser pla
     - Not yet tested
 - [fft.js](https://github.com/JensNockert/fft.js) this works as a library called by [pitch.js](https://github.com/audiocogs/pitch.js), at least the sound-getting and frequency detection
     - Tested and can detect pitch (tone/frequency) and display it as a number. Need to detect over time and display as a aline.
+- Maybe [prong](https://github.com/lukebarlow/prong)? Looks to have waveform drawing feature...
 
 ## Miscellaneous Notes
 
