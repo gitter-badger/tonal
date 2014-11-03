@@ -25,3 +25,7 @@ For example, Lanna Innovation has produced Thai language learning cards with Sam
 ![](01-Gau-Gai-Thai-Alphabet-Consonants-How-to-Learn-Thai.jpg)
 
 Image from [howtolearnthai.com](http://howtolearnthai.com/) used with permission.
+
+## Related Issues
+
+The English language alternates between stressed and unstressed syllables. This is done by amplitude (volume). In addition, tone is used generally for semantics, such as questioning and emphasis. If both of these dimensions (amplitude modulation and frequency modulation) could be mapped visually, this could be fed into synthetic speech to make generated language more naturalistic and meaningful.
