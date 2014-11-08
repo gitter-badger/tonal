@@ -1,4 +1,5 @@
 # Tonal
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/jeffmcneill/tonal?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Tonal is a frequency contour visualization tool for foreign language acquisition. By providing visual insight into tones (relative pitch and duration), foreign language learners can improve their hearing and speaking skills faster and more accurately. This is especially useful for tonal languages (languages in which [tones are phonemic](https://en.wikipedia.org/wiki/Tone_%28linguistics%29)), but also for those languages that use tone for semantic differences, such as English.
 
